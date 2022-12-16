@@ -1,1 +1,1 @@
-# DMclient
+bmic-client
